@@ -6,5 +6,5 @@
 
 3. In Tmux die Leader Taste + I drücken und Plugins installieren
 
-*TO DO:**
+**TO DO:**
 Das ganze mal testen, lol 
